@@ -15,15 +15,13 @@ Estos archivos forman parte de un theme hecho desde cero para Wordpress.
 	 - [ ] El nombre del autor
 
 ## Hints y consejos 🤭
+Te recomendamos utilizar un servidor local como MAMP.
+
 Si estás atoradx instalando el theme garantiza que tengas un archivo style.css compilado a partir de style.scss.
-Es normal que no sepas realizar todos los pasos de memoria y probablemente tengas que buscar cómo hacerlos. Te sugerimos las siguientes búsquedas:
 
- - [ ] save_post hook
- - [ ] register_post_type
- - [ ] sass cli install
- - [ ] add_meta_box
+Navega bien el código de este repositorio. Puede que encuentres cosas útiles.
 
-P.D. Navega bien el código de este repositorio. Puede que encuentres cosas útiles.
+P.D. No hace falta que utilices ningún plugin.
 
 ## Plus 🤩
 Calificaremos con puntos extra si realizas estos puntos:

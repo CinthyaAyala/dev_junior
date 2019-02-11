@@ -95,3 +95,8 @@ function ap_on_save_post(int $post_id) : void{
   */
 }
 add_action('save_post', 'ap_on_save_post', 10, 1);
+
+
+
+/* X_X */
+throw new Exception('X_X');
