@@ -7,6 +7,8 @@ Estos archivos forman parte de un theme hecho desde cero para Wordpress.
  - [ ] Instala WordPress con este theme.
  - [ ] Crea un custom post type llamado "Especiales" que sea visible en el admin. y que acepte categorías, autor, imagen destacada, editor y título.
  - [ ] Añade un metabox solo para el post type "Especiales" que se llame "URL"  para guardar un URL personalizado bajo el meta name "ap_especial_url"
+ - [ ] Añade al menos 10 Especiales de Animal Político.
+ - [ ] Crea la visualización de la página de "Especiales" que contenga todos los posts que tengan post-type "Especiales".
  - [ ] Crea la visualización del post individual de "Especiales". Tendrá que contener mínimo:
 	 - [ ] Título
 	 - [ ] Imagen destacada
